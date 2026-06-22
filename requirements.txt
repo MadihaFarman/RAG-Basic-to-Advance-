@@ -3,3 +3,5 @@ huggingface_hub
 python-dotenv
 numpy
 scikit-learn
+langchain
+langchain-text-splitters
