@@ -5,3 +5,13 @@ numpy
 scikit-learn
 langchain
 langchain-text-splitters
+faiss-cpu
+chromadb
+pymupdf
+openai
+ragas
+datasets
+langchain-community
+langchain-google-vertexai
+sentence-transformers
+rank-bm25
